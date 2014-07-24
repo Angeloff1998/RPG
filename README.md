@@ -1,4 +1,4 @@
 RPG
 ===
 By thalac123, CoalsPlay y Angeloff
-Prueba1
+This is our first proyect to create a RPG game.
